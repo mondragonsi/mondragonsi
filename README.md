@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Mondragon, DBA SQL Server and DB2.
+- 👋 Hi, I’m Bruno Mondragon, Data Engineer, DBA SQL Server and DB2.
 
 <!---
 mondragonsi/mondragonsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
