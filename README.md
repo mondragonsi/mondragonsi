@@ -14,7 +14,7 @@ Throughout my career, I’ve worked with technologies such as **SQL Server**, **
 
 ## 🚀 What I’m Working On
 
-- 🧩 **AI-powered observability platform** — reads SQL Server logs and wait stats to predict failures and optimize performance (part of my **EB-2 NIW** project).
+- 🧩 **AI-powered observability platform** — reads SQL Server logs and wait stats to predict failures and optimize performance .
 - ⚡ **Data modernization frameworks** for legacy mainframe systems using **Python**, **PowerShell**, and **Azure Bicep**.
 - 🧠 **NLP research** — simplifying political propositions for citizens (PUC-RS postgraduate project).
 - 🧰 **Automation tools** — PowerShell GUIs for SQL Server health checks, decommissioning validation, and diagnostic reports.
